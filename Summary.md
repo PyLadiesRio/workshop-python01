@@ -4,12 +4,12 @@ Introdução (Hoje falaremos de métodos e Estrutura de Dados)
 
 Relembrando as regras do Dojo (link pro Sobre Dojo iniciantes)
 
-1. Dojo 1 - Refazer o dojo 6 do Dojo Iniciantes
+* Dojo 1 - Refazer o dojo 6 do Dojo Iniciantes
 
-2. Dojo 2 - Métodos - sudoku
+* [Dojo 2](dojo02.md)- Métodos - sudoku
 
 Dicionários. [escrever algo tipo aquela explicação maravilhosa de lista e mostrar o formato do dicionário]
 
-3. Dojo 3 - Dicionários.
+* [Dojo 3](dojo03.md)- Dicionários.
 
-4. Dojo 4 - 
+* Dojo 4 - 
