@@ -17,6 +17,3 @@ Dicionários.
 5. Buscar o item mais leve.
 
 6. Buscar o item mais pesado.
-
-7. ...Pode ser loucura -> Problema de otmização colocar n items numa mochila que aguenta x peso.
-[É um problema dificil... mas é um desafio legal de pensar na solução, e não precisa chegar na ótima também, a gente pode colocar um link pra solução ótima qq vocês acham?]
