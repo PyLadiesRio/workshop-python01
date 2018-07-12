@@ -1,12 +1,20 @@
-###Validador Sudoku [Abri um link pra explicar as regras do sudoku]
- 
 
-1.Criar o validador de uma linha de sudoku.
+###Dojo 5
 
-2. Validar todas as 9 linhas.
+####Objetivo
 
-3. Validar todas as 9 colunas.
+Dicionários.
 
-4. Validar um quadrante 3x3.
+####Baby Steps
 
-5. Validar todos os quadrantes.
+1. Agora que já sabemos criar métodos vamos brincar com novas estruturas de dados
+
+2. Criar um dicionário com uma lista de produtos e seus respectivos preços e pesos.
+
+3. Buscar o item mais caro.
+
+4. Buscar o item mais barato.
+
+5. Buscar o item mais leve.
+
+6. Buscar o item mais pesado.
