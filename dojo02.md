@@ -18,6 +18,9 @@ Até o primeiro Dojo Fizemos tudo usando o command, está na hora de brincar no 
 
 4.1. Antes precisamos conversar sobre ESTRUTURAS DE REPETIÇÃO
 
+Material de apoio:
+[https://www.devmedia.com.br/estruturas-de-condicao-e-repeticao-em-python/37158]
+
 5. Criar o validador de uma linha de sudoku.
 
 6. Validar todas as 9 linhas.
