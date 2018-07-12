@@ -5,6 +5,7 @@
 Validador de SUDOKU
 
 ####Baby Steps
+
 1.Criar o validador de uma linha de sudoku.
 
 2. Validar todas as 9 linhas.
