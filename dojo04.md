@@ -1,6 +1,16 @@
-###Problema da Mochila
+###Dojo 4
 
-Imagine que você possui um contentor de certo tamanho e vários produtos com seus valores para serem colocados dentro dele. 
-Porém os produtos devem ser colocados de um jeito que o contentor tenha o maior valor.
+####Objetivo
 
-Fonte: https://pt.wikipedia.org/wiki/Problema_da_mochila
+Validador de SUDOKU
+
+####Baby Steps
+1.Criar o validador de uma linha de sudoku.
+
+2. Validar todas as 9 linhas.
+
+3. Validar todas as 9 colunas.
+
+4. Validar um quadrante 3x3.
+
+5. Validar todos os quadrantes.
