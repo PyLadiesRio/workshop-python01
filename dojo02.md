@@ -16,6 +16,8 @@ Até o primeiro Dojo Fizemos tudo usando o command, está na hora de brincar no 
 
 4. Vamos voltar a manipular listas - validador Sudoku [Abri um link pra explicar as regras do sudoku]
 
+4.1. Antes precisamos conversar sobre ESTRUTURAS DE REPETIÇÃO
+
 5. Criar o validador de uma linha de sudoku.
 
 6. Validar todas as 9 linhas.
