@@ -1,10 +1,10 @@
-###Dojo 4
+### Dojo 4
 
-####Objetivo
+#### Objetivo
 
 Validador de SUDOKU
 
-####Baby Steps
+#### Baby Steps
 
 1.Criar o validador de uma linha de sudoku.
 
