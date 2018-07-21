@@ -15,3 +15,5 @@ Validador de SUDOKU
 4. Validar um quadrante 3x3.
 
 5. Validar todos os quadrantes.
+
+E se você quiser resolver: http://norvig.com/sudoku.html
