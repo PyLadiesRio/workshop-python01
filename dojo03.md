@@ -1,10 +1,10 @@
 
-###Dojo 3
+### Dojo 3
 
 #### Problema
 Receber um número inteiro e imprimir o quadrado de todos os números menores que o número de entrada.
 
-####Baby steps.
+#### Baby steps.
 
 1. Receber um número como paramêtro
 
