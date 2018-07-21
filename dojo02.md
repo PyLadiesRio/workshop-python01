@@ -1,10 +1,10 @@
-###Dojo 2
+### Dojo 2
 
-####Objetivo
+#### Objetivo
 
 Até o primeiro Dojo Fizemos tudo usando o command, está na hora de brincar no editor de texto.
 
-####Baby Steps
+#### Baby Steps
 
 1. Abrir um editor de texto e criar um arquivo .py  onde escreveremos nossos códigos
 
